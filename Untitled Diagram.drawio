@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T07:39:35.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="GnyQXXnWWFXM4njZhYAM" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T07:42:23.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vhTi66PNjcTSkj8jmXJ1" version="24.7.1" type="github">
   <diagram name="Page-1" id="WKEdtSM3jrM_5UuTQD_j">
     <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-2" target="9NHKSMUlSYhg7HR8SAOz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9NHKSMUlSYhg7HR8SAOz-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-2" target="9NHKSMUlSYhg7HR8SAOz-27">
+        <mxCell id="9NHKSMUlSYhg7HR8SAOz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-2" target="9NHKSMUlSYhg7HR8SAOz-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-2" value="AUTHENTICATE&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%22190%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -22,7 +22,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-3" value="FINGERPRINT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-5" target="9NHKSMUlSYhg7HR8SAOz-11">
           <mxGeometry relative="1" as="geometry" />
@@ -35,16 +35,11 @@
             <mxGeometry x="355" y="750" width="120" height="50" as="geometry" />
           </mxCell>
         </object>
-        <mxCell id="9NHKSMUlSYhg7HR8SAOz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="9NHKSMUlSYhg7HR8SAOz-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="205" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-8" target="9NHKSMUlSYhg7HR8SAOz-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-8" value="FACE RECOGNITION&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-9" target="9NHKSMUlSYhg7HR8SAOz-5">
           <mxGeometry relative="1" as="geometry" />
@@ -69,10 +64,13 @@
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-11" value="CAST VOTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9NHKSMUlSYhg7HR8SAOz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.378;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="9NHKSMUlSYhg7HR8SAOz-3">
+        <mxCell id="9NHKSMUlSYhg7HR8SAOz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="205" as="sourcePoint" />
+            <mxPoint x="160" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9NHKSMUlSYhg7HR8SAOz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9NHKSMUlSYhg7HR8SAOz-27" target="9NHKSMUlSYhg7HR8SAOz-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9NHKSMUlSYhg7HR8SAOz-27" value="SELECT&lt;div&gt;FACE&lt;/div&gt;&lt;div&gt;FINGERPRINT&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="150" height="90" as="geometry" />
